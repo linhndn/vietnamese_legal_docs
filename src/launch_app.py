@@ -46,7 +46,8 @@ def launch_app():
 
         source_lines = build_source_lines(final_citations)
         citation_text = "\n\nTham khảo thêm:\n" + "\n".join(source_lines) if source_lines else ""
-        history[-1]["content"] = final_answer + citation_text
+        # history[-1]["content"] = final_answer + citation_text
+        history[-1]["content"] = final_answer
         yield history, ""
 
     with gr.Blocks(title="Chatbot Luật Việt Nam", css="footer {visibility: hidden}") as demo:

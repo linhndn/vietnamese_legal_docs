@@ -1,126 +1,126 @@
 {
   "bao_hiem": {
     "desc": "Lĩnh vực bảo hiểm gồm bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bảo hiểm nhân thọ, bảo hiểm phi nhân thọ, bảo hiểm tài sản, bảo hiểm trách nhiệm dân sự, bảo hiểm xe cơ giới, bảo hiểm hàng hóa, hợp đồng bảo hiểm, phí bảo hiểm, bồi thường bảo hiểm, tranh chấp bảo hiểm, doanh nghiệp bảo hiểm, đại lý bảo hiểm, tái bảo hiểm, quỹ bảo hiểm, điều kiện hưởng bảo hiểm, mức hưởng bảo hiểm, thủ tục giải quyết quyền lợi bảo hiểm.",
-    "chroma_path": "../chroma_db/bao_hiem"
+    "chroma_path": "./chroma_db/bao_hiem"
   },
   "bat_dong_san": {
     "desc": "Lĩnh vực bất động sản gồm mua bán nhà ở, chuyển nhượng quyền sử dụng đất, thuê nhà, thuê đất, đặt cọc bất động sản, hợp đồng mua bán căn hộ chung cư, nhà ở xã hội, nhà ở thương mại, dự án bất động sản, phân lô bán nền, môi giới bất động sản, sàn giao dịch bất động sản, công chứng hợp đồng nhà đất, đăng ký biến động đất đai, tranh chấp nhà đất, thế chấp bất động sản, quy hoạch xây dựng liên quan nhà ở, cấp phép xây dựng nhà ở, quản lý vận hành chung cư, ban quản trị chung cư.",
-    "chroma_path": "../chroma_db/bat_dong_san"
+    "chroma_path": "./chroma_db/bat_dong_san"
   },
   "bo_may_hanh_chinh": {
     "desc": "Lĩnh vực bộ máy hành chính nhà nước gồm tổ chức bộ máy cơ quan nhà nước, chính phủ, bộ, cơ quan ngang bộ, ủy ban nhân dân các cấp, hội đồng nhân dân, phân cấp phân quyền, chức năng nhiệm vụ quyền hạn của cơ quan nhà nước, cán bộ công chức viên chức, tuyển dụng bổ nhiệm miễn nhiệm cán bộ, kỷ luật cán bộ công chức, công vụ, đạo đức công vụ, cải cách hành chính, thủ tục hành chính, một cửa điện tử, hệ thống chính trị, kiểm soát quyền lực nhà nước.",
-    "chroma_path": "../chroma_db/bo_may_hanh_chinh"
+    "chroma_path": "./chroma_db/bo_may_hanh_chinh"
   },
   "chung_khoan": {
     "desc": "Lĩnh vực chứng khoán gồm cổ phiếu, trái phiếu, chứng chỉ quỹ, thị trường chứng khoán, sàn giao dịch chứng khoán HoSE HNEX, công ty niêm yết, phát hành chứng khoán ra công chúng IPO, chào bán cổ phần, công bố thông tin, giao dịch nội gián, thao túng thị trường chứng khoán, công ty chứng khoán, công ty quản lý quỹ, quỹ đầu tư, tài khoản chứng khoán, lưu ký chứng khoán, thanh toán bù trừ chứng khoán, Ủy ban Chứng khoán Nhà nước, vi phạm pháp luật chứng khoán, trái phiếu doanh nghiệp.",
-    "chroma_path": "../chroma_db/chung_khoan"
+    "chroma_path": "./chroma_db/chung_khoan"
   },
   "cong_nghiep": {
     "desc": "Lĩnh vực công nghiệp gồm sản xuất công nghiệp, khu công nghiệp, khu chế xuất, khu kinh tế, giấy phép sản xuất công nghiệp, điều kiện kinh doanh ngành công nghiệp, công nghiệp nặng, công nghiệp nhẹ, chế biến chế tạo, khai thác khoáng sản, lọc hóa dầu, năng lượng công nghiệp, an toàn lao động trong sản xuất công nghiệp, tiêu chuẩn kỹ thuật sản phẩm công nghiệp, quản lý chất lượng sản phẩm hàng hóa, nhãn hàng hóa, trách nhiệm sản phẩm, công nghiệp hỗ trợ.",
-    "chroma_path": "../chroma_db/cong_nghiep"
+    "chroma_path": "./chroma_db/cong_nghiep"
   },
   "cong_nghe_thong_tin": {
     "desc": "Lĩnh vực công nghệ thông tin gồm giao dịch điện tử, chữ ký số, chữ ký điện tử, hóa đơn điện tử, hợp đồng điện tử, an toàn thông tin mạng, an ninh mạng, bảo vệ dữ liệu cá nhân, quyền riêng tư dữ liệu, tội phạm mạng, vi phạm bản quyền phần mềm, thương mại điện tử, nền tảng số, dịch vụ trung gian thanh toán điện tử, viễn thông, internet, tên miền, giấy phép hoạt động công nghệ thông tin, trí tuệ nhân tạo, dữ liệu lớn, điện toán đám mây trong khuôn khổ pháp lý.",
-    "chroma_path": "../chroma_db/cong_nghe_thong_tin"
+    "chroma_path": "./chroma_db/cong_nghe_thong_tin"
   },
   "cong_nghe_thuc_pham": {
     "desc": "Lĩnh vực công nghệ thực phẩm gồm an toàn thực phẩm, vệ sinh thực phẩm, kiểm dịch thực phẩm, công bố sản phẩm thực phẩm, giấy phép sản xuất kinh doanh thực phẩm, điều kiện cơ sở sản xuất chế biến thực phẩm, ghi nhãn thực phẩm, phụ gia thực phẩm, thực phẩm chức năng, thực phẩm bổ sung, kiểm nghiệm thực phẩm, truy xuất nguồn gốc thực phẩm, vi phạm an toàn thực phẩm, xử phạt cơ sở sản xuất thực phẩm không đảm bảo chất lượng, thực phẩm nhập khẩu, quản lý thị trường thực phẩm.",
-    "chroma_path": "../chroma_db/cong_nghe_thuc_pham"
+    "chroma_path": "./chroma_db/cong_nghe_thuc_pham"
   },
   "doanh_nghiep": {
     "desc": "Lĩnh vực doanh nghiệp gồm thành lập doanh nghiệp, đăng ký kinh doanh, các loại hình doanh nghiệp như công ty TNHH, công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân, hộ kinh doanh, thay đổi đăng ký doanh nghiệp, giải thể doanh nghiệp, phá sản, tái cơ cấu doanh nghiệp, quản trị nội bộ, điều lệ công ty, cổ đông, hội đồng quản trị, góp vốn, chuyển nhượng vốn, tăng giảm vốn điều lệ, chia tách sáp nhập hợp nhất doanh nghiệp, doanh nghiệp nhà nước, doanh nghiệp có vốn đầu tư nước ngoài, trách nhiệm pháp lý của người quản lý doanh nghiệp.",
-    "chroma_path": "../chroma_db/doanh_nghiep"
+    "chroma_path": "./chroma_db/doanh_nghiep"
   },
   "dich_vu_phap_ly": {
     "desc": "Lĩnh vực dịch vụ pháp lý gồm hành nghề luật sư, đoàn luật sư, tổ chức hành nghề luật sư, công ty luật, văn phòng luật sư, tư vấn pháp lý, trợ giúp pháp lý miễn phí, công chứng, chứng thực, thừa phát lại, giám định tư pháp, hòa giải thương mại, trọng tài thương mại, đạo đức nghề nghiệp luật sư, phí dịch vụ pháp lý, hợp đồng dịch vụ pháp lý, quyền và nghĩa vụ của luật sư, bào chữa, đại diện theo ủy quyền, kỹ năng tố tụng.",
-    "chroma_path": "../chroma_db/dich_vu_phap_ly"
+    "chroma_path": "./chroma_db/dich_vu_phap_ly"
   },
   "giao_thong_van_tai": {
     "desc": "Lĩnh vực giao thông vận tải gồm luật giao thông đường bộ, đường thủy nội địa, hàng hải, hàng không, đường sắt, vi phạm luật giao thông, xử phạt vi phạm hành chính giao thông, nồng độ cồn khi lái xe, ma túy lái xe, tốc độ, vượt đèn đỏ, đăng ký phương tiện, giấy phép lái xe, kiểm định xe cơ giới, đăng kiểm, vận tải hành khách, vận tải hàng hóa, hợp đồng vận chuyển, tai nạn giao thông, bồi thường tai nạn giao thông, hạ tầng giao thông, phí đường bộ, thu hồi giấy phép lái xe.",
-    "chroma_path": "../chroma_db/giao_thong_van_tai"
+    "chroma_path": "./chroma_db/giao_thong_van_tai"
   },
   "giao_duc": {
     "desc": "Lĩnh vực giáo dục gồm hệ thống giáo dục quốc dân, trường công lập tư thục, giáo dục mầm non tiểu học trung học đại học, tuyển sinh, học phí, học bổng, chương trình đào tạo, văn bằng chứng chỉ, công nhận văn bằng nước ngoài, điều kiện thành lập trường, giáo dục có yếu tố nước ngoài, quyền lợi người học, nghĩa vụ nhà trường, xử lý vi phạm trong cơ sở giáo dục, nhà giáo, tiêu chuẩn giáo viên, kiểm định chất lượng giáo dục, giáo dục nghề nghiệp, giáo dục thường xuyên.",
-    "chroma_path": "../chroma_db/giao_duc"
+    "chroma_path": "./chroma_db/giao_duc"
   },
   "ke_toan_kiem_toan": {
     "desc": "Lĩnh vực kế toán kiểm toán gồm chế độ kế toán doanh nghiệp, chuẩn mực kế toán Việt Nam, báo cáo tài chính, sổ sách kế toán, chứng từ kế toán, kế toán thuế, hành nghề kế toán, chứng chỉ kế toán viên, dịch vụ kế toán, kiểm toán độc lập, chuẩn mực kiểm toán, báo cáo kiểm toán, công ty kiểm toán, kiểm toán viên, kiểm toán nhà nước, trách nhiệm của kế toán viên và kiểm toán viên, vi phạm pháp luật kế toán kiểm toán, lưu trữ tài liệu kế toán.",
-    "chroma_path": "../chroma_db/ke_toan_kiem_toan"
+    "chroma_path": "./chroma_db/ke_toan_kiem_toan"
   },
   "lao_dong_tien_luong": {
     "desc": "Lĩnh vực lao động tiền lương gồm hợp đồng lao động, thử việc, chấm dứt hợp đồng lao động, sa thải, đơn phương chấm dứt hợp đồng, tiền lương, lương tối thiểu vùng, phụ cấp, thưởng, thời giờ làm việc, làm thêm giờ, nghỉ phép năm, nghỉ lễ, an toàn vệ sinh lao động, tai nạn lao động bệnh nghề nghiệp, tranh chấp lao động cá nhân tập thể, đình công, công đoàn, nội quy lao động, kỷ luật lao động, lao động nước ngoài, lao động là người chưa thành niên, hòa giải lao động.",
-    "chroma_path": "../chroma_db/lao_dong_tien_luong"
+    "chroma_path": "./chroma_db/lao_dong_tien_luong"
   },
   "linh_vuc_khac": {
     "desc": "Lĩnh vực khác bao gồm các vấn đề pháp lý không thuộc các lĩnh vực chuyên biệt đã được phân loại, gồm các câu hỏi tổng quát về pháp luật, các vấn đề liên ngành, quy định đặc thù chưa phân loại rõ ràng, các vấn đề pháp lý mới phát sinh chưa có lĩnh vực chuyên sâu, câu hỏi mang tính chất tham khảo pháp lý chung.",
-    "chroma_path": "../chroma_db/linh_vuc_khac"
+    "chroma_path": "./chroma_db/linh_vuc_khac"
   },
   "quyen_dan_su": {
     "desc": "Lĩnh vực quyền dân sự gồm quyền nhân thân, quyền tài sản, năng lực pháp luật dân sự, năng lực hành vi dân sự, hộ tịch, đăng ký khai sinh khai tử kết hôn ly hôn, giám hộ, đại diện, hợp đồng dân sự, nghĩa vụ dân sự, bồi thường thiệt hại ngoài hợp đồng, thừa kế di chúc chia thừa kế, hôn nhân gia đình, nuôi con nuôi, quyền nuôi con sau ly hôn, cấp dưỡng, tài sản chung vợ chồng, tranh chấp dân sự, thời hiệu khởi kiện dân sự, tòa án nhân dân giải quyết vụ việc dân sự.",
-    "chroma_path": "../chroma_db/quyen_dan_su"
+    "chroma_path": "./chroma_db/quyen_dan_su"
   },
   "so_huu_tri_tue": {
     "desc": "Lĩnh vực sở hữu trí tuệ gồm quyền tác giả, quyền liên quan, bản quyền âm nhạc, bản quyền phần mềm, bản quyền tác phẩm văn học nghệ thuật, nhãn hiệu, thương hiệu, đăng ký nhãn hiệu, kiểu dáng công nghiệp, sáng chế, giải pháp hữu ích, chỉ dẫn địa lý, bí mật kinh doanh, chuyển nhượng li-xăng quyền sở hữu trí tuệ, vi phạm bản quyền, hàng giả hàng nhái, xử lý xâm phạm quyền sở hữu trí tuệ, đăng ký bảo hộ quyền sở hữu công nghiệp tại Cục Sở hữu trí tuệ.",
-    "chroma_path": "../chroma_db/so_huu_tri_tue"
+    "chroma_path": "./chroma_db/so_huu_tri_tue"
   },
   "thue_phi_le_phi": {
     "desc": "Lĩnh vực thuế phí lệ phí gồm thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp, thuế giá trị gia tăng VAT, thuế tiêu thụ đặc biệt, thuế xuất nhập khẩu, thuế tài nguyên, thuế sử dụng đất, thuế nhà đất, lệ phí trước bạ, phí và lệ phí nhà nước, đăng ký mã số thuế, kê khai thuế, quyết toán thuế, hoàn thuế, miễn giảm thuế, truy thu thuế, xử phạt vi phạm thuế, trốn thuế, gian lận thuế, hóa đơn chứng từ, quản lý thuế.",
-    "chroma_path": "../chroma_db/thue_phi_le_phi"
+    "chroma_path": "./chroma_db/thue_phi_le_phi"
   },
   "thuong_mai": {
     "desc": "Lĩnh vực thương mại gồm hợp đồng thương mại, mua bán hàng hóa trong nước, đại lý thương mại, nhượng quyền thương mại, gia công thương mại, dịch vụ logistics, phân phối bán lẻ bán buôn, cạnh tranh không lành mạnh, bảo vệ quyền lợi người tiêu dùng, quảng cáo thương mại, trưng bày hội chợ triển lãm, phạt vi phạm hợp đồng thương mại, giải quyết tranh chấp thương mại, trọng tài thương mại, thương mại điện tử, kinh doanh đa cấp, chống bán phá giá, xúc tiến thương mại.",
-    "chroma_path": "../chroma_db/thuong_mai"
+    "chroma_path": "./chroma_db/thuong_mai"
   },
   "the_thao_y_te": {
     "desc": "Lĩnh vực thể thao y tế gồm quy định hành nghề khám chữa bệnh, cấp phép cơ sở y tế, bệnh viện phòng khám, dược phẩm, quản lý thuốc, giấy phép lưu hành thuốc, vắc xin, trang thiết bị y tế, bảo hiểm y tế, tai biến y khoa, trách nhiệm bồi thường y tế, y tế dự phòng, an toàn vệ sinh lao động trong y tế, thể dục thể thao, tổ chức thi đấu thể thao, vận động viên chuyên nghiệp, doping, cơ sở kinh doanh thể thao, quyền lợi vận động viên.",
-    "chroma_path": "../chroma_db/the_thao_y_te"
+    "chroma_path": "./chroma_db/the_thao_y_te"
   },
   "thu_tuc_to_tung": {
     "desc": "Lĩnh vực thủ tục tố tụng gồm tố tụng dân sự, tố tụng hình sự, tố tụng hành chính, khởi kiện, đơn khởi kiện, thụ lý vụ án, thẩm quyền tòa án, chuẩn bị xét xử, phiên tòa sơ thẩm phúc thẩm giám đốc thẩm, hòa giải tại tòa, kháng cáo kháng nghị, thi hành án dân sự hình sự, biện pháp khẩn cấp tạm thời, thu thập chứng cứ, giám định tư pháp trong tố tụng, chi phí án phí, quyền và nghĩa vụ của đương sự, người đại diện trong tố tụng, triệu tập nhân chứng.",
-    "chroma_path": "../chroma_db/thu_tuc_to_tung"
+    "chroma_path": "./chroma_db/thu_tuc_to_tung"
   },
   "tien_te_ngan_hang": {
     "desc": "Lĩnh vực tiền tệ ngân hàng gồm hoạt động ngân hàng thương mại, ngân hàng nhà nước, tín dụng, cho vay, hợp đồng vay tài sản, lãi suất, lãi suất trần, nợ xấu, xử lý nợ, thế chấp vay vốn ngân hàng, bảo lãnh ngân hàng, mở tài khoản, thanh toán không dùng tiền mặt, chuyển tiền, ví điện tử, fintech, tín dụng đen, cho vay nặng lãi, tỷ giá hối đoái, ngoại hối, vàng, kiều hối, tái cơ cấu tổ chức tín dụng, giám sát ngân hàng.",
-    "chroma_path": "../chroma_db/tien_te_ngan_hang"
+    "chroma_path": "./chroma_db/tien_te_ngan_hang"
   },
   "trach_nhiem_hinh_su": {
     "desc": "Lĩnh vực trách nhiệm hình sự gồm tội phạm và hình phạt, các tội danh trong Bộ luật Hình sự, tội trộm cắp, lừa đảo, cướp tài sản, giết người, cố ý gây thương tích, hiếp dâm, tội phạm ma túy, tội tham nhũng hối lộ, tội rửa tiền, tội phạm mạng, tội vi phạm an toàn giao thông gây chết người, điều tra hình sự, bắt tạm giam tạm giữ, khởi tố truy tố xét xử, bào chữa hình sự, miễn trách nhiệm hình sự, tái phạm, tình tiết tăng nặng giảm nhẹ, thi hành án phạt tù, đặc xá.",
-    "chroma_path": "../chroma_db/trach_nhiem_hinh_su"
+    "chroma_path": "./chroma_db/trach_nhiem_hinh_su"
   },
   "tai_chinh_nha_nuoc": {
     "desc": "Lĩnh vực tài chính nhà nước gồm ngân sách nhà nước, thu chi ngân sách, phân bổ ngân sách trung ương địa phương, quản lý tài sản công, đầu tư công, mua sắm công, đấu thầu mua sắm nhà nước, quản lý nợ công, trái phiếu chính phủ, tín phiếu kho bạc, kho bạc nhà nước, kiểm toán nhà nước, thanh tra tài chính, giám sát chi tiêu công, quỹ dự phòng nhà nước, tài chính đơn vị sự nghiệp công lập.",
-    "chroma_path": "../chroma_db/tai_chinh_nha_nuoc"
+    "chroma_path": "./chroma_db/tai_chinh_nha_nuoc"
   },
   "tai_nguyen_moi_truong": {
     "desc": "Lĩnh vực tài nguyên môi trường gồm bảo vệ môi trường, đánh giá tác động môi trường EIA, giấy phép môi trường, xử lý chất thải, nước thải, khí thải, tiêu chuẩn môi trường, ô nhiễm môi trường, sự cố môi trường, bồi thường thiệt hại môi trường, tài nguyên nước, khai thác nước ngầm, tài nguyên khoáng sản, khai thác mỏ, tài nguyên rừng, đất rừng, biển đảo, vùng đặc quyền kinh tế, biến đổi khí hậu, carbon, năng lượng tái tạo trong khuôn khổ pháp lý môi trường.",
-    "chroma_path": "../chroma_db/tai_nguyen_moi_truong"
+    "chroma_path": "./chroma_db/tai_nguyen_moi_truong"
   },
   "vi_pham_hanh_chinh": {
     "desc": "Lĩnh vực vi phạm hành chính gồm xử phạt vi phạm hành chính, thẩm quyền xử phạt, hình thức xử phạt như cảnh cáo phạt tiền tịch thu tang vật, biện pháp khắc phục hậu quả, thủ tục xử phạt vi phạm hành chính, lập biên bản vi phạm, ra quyết định xử phạt, cưỡng chế thi hành quyết định xử phạt, khiếu nại quyết định xử phạt hành chính, thời hiệu xử phạt, vi phạm hành chính trong các lĩnh vực như đất đai xây dựng môi trường y tế vệ sinh thú y thuế thương mại.",
-    "chroma_path": "../chroma_db/vi_pham_hanh_chinh"
+    "chroma_path": "./chroma_db/vi_pham_hanh_chinh"
   },
   "van_hoa_xa_hoi": {
     "desc": "Lĩnh vực văn hóa xã hội gồm hoạt động văn hóa nghệ thuật, biểu diễn nghệ thuật, điện ảnh, xuất bản, báo chí, truyền thông, quảng cáo văn hóa phẩm, di sản văn hóa, di tích lịch sử, tôn giáo tín ngưỡng, hội đoàn xã hội, tổ chức phi chính phủ NGO, từ thiện, an sinh xã hội, trợ cấp xã hội, người có công, người khuyết tật, trẻ em, bình đẳng giới, phòng chống bạo lực gia đình, phòng chống tệ nạn xã hội ma túy mại dâm cờ bạc.",
-    "chroma_path": "../chroma_db/van_hoa_xa_hoi"
+    "chroma_path": "./chroma_db/van_hoa_xa_hoi"
   },
   "xuat_nhap_khau": {
     "desc": "Lĩnh vực xuất nhập khẩu gồm thủ tục hải quan, khai báo hải quan, tờ khai hải quan điện tử, thuế xuất nhập khẩu, thuế chống bán phá giá, kiểm tra chuyên ngành hàng hóa xuất nhập khẩu, giấy phép xuất nhập khẩu, hạn ngạch thuế quan, xuất xứ hàng hóa C/O, kiểm dịch động thực vật hàng hóa biên giới, khu vực phi thuế quan, cửa khẩu, vận chuyển hàng hóa quốc tế, incoterms, thương mại quốc tế, hợp đồng ngoại thương, thanh toán quốc tế L/C, vi phạm pháp luật hải quan.",
-    "chroma_path": "../chroma_db/xuat_nhap_khau"
+    "chroma_path": "./chroma_db/xuat_nhap_khau"
   },
   "xay_dung": {
     "desc": "Lĩnh vực xây dựng gồm giấy phép xây dựng, thẩm định thiết kế, thi công xây dựng, giám sát công trình, nghiệm thu công trình, hợp đồng xây dựng, nhà thầu, chủ đầu tư, tư vấn xây dựng, an toàn lao động trong xây dựng, chất lượng công trình xây dựng, vi phạm trật tự xây dựng, cưỡng chế tháo dỡ công trình vi phạm, cấp chứng chỉ hành nghề xây dựng, đấu thầu dự án xây dựng, quy chuẩn kỹ thuật xây dựng, bảo hành bảo trì công trình.",
-    "chroma_path": "../chroma_db/xay_dung"
+    "chroma_path": "./chroma_db/xay_dung"
   },
   "xay_dung_do_thi": {
     "desc": "Lĩnh vực xây dựng và quản lý đô thị gồm quy hoạch đô thị, quy hoạch tổng thể quy hoạch chi tiết, phát triển đô thị, quản lý trật tự đô thị, hạ tầng kỹ thuật đô thị, cấp thoát nước, chiếu sáng công cộng, vệ sinh môi trường đô thị, giao thông đô thị, công viên cây xanh, quản lý nhà chung cư đô thị, cải tạo chỉnh trang đô thị, di dời giải tỏa trong dự án đô thị, đất đô thị, giá đất đô thị, nhà ở đô thị, đô thị mới, khu đô thị thông minh.",
-    "chroma_path": "../chroma_db/xay_dung_do_thi"
+    "chroma_path": "./chroma_db/xay_dung_do_thi"
   },
   "dien_dien_tu": {
     "desc": "Lĩnh vực điện và điện tử gồm hoạt động điện lực, sản xuất truyền tải phân phối điện, giá điện, hóa đơn tiền điện, hợp đồng mua bán điện, an toàn điện, vi phạm an toàn điện, trộm cắp điện, điện mặt trời áp mái, năng lượng tái tạo điện gió điện mặt trời, lưới điện quốc gia, điện nông thôn, cấp phép hoạt động điện lực, thiết bị điện điện tử, tiêu chuẩn kỹ thuật điện, xuất nhập khẩu thiết bị điện tử, kinh doanh hàng điện tử, bảo hành sản phẩm điện tử.",
-    "chroma_path": "../chroma_db/dien_dien_tu"
+    "chroma_path": "./chroma_db/dien_dien_tu"
   },
   "dau_tu": {
     "desc": "Lĩnh vực đầu tư gồm Luật Đầu tư, đăng ký đầu tư, giấy chứng nhận đăng ký đầu tư, dự án đầu tư trong nước và nước ngoài, ưu đãi đầu tư, lĩnh vực ngành nghề đầu tư có điều kiện, ngành nghề cấm đầu tư, đầu tư theo hình thức PPP hợp tác công tư, M&A mua bán sáp nhập doanh nghiệp, thẩm định dự án đầu tư, bảo đảm đầu tư, tranh chấp đầu tư, đầu tư ra nước ngoài, nhà đầu tư nước ngoài, khu kinh tế đặc biệt, điều chỉnh dự án đầu tư, chấm dứt hoạt động đầu tư.",
-    "chroma_path": "../chroma_db/dau_tu"
+    "chroma_path": "./chroma_db/dau_tu"
   }
 }

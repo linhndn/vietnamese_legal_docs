@@ -56,7 +56,7 @@ class RetrievedChunk:
 class LegalRAGBot:
     def __init__(
         self,
-        domains_path: str = "../domains.json",           # <-- THAY db_path
+        domains_path: str = "./domains.json",           # <-- THAY db_path
         collection_name_map: Optional[dict] = None,     # mặc định dùng domain key
         embedding_model: str = "AITeamVN/Vietnamese_Embedding_v2",
         reranker_model: str = "AITeamVN/Vietnamese_Reranker",
@@ -94,6 +94,8 @@ class LegalRAGBot:
         self.router = DomainRouter(self.domains, self.emb_model)
 
         # Groq client
+        from dotenv import load_dotenv
+        load_dotenv()
         api_key = os.getenv("GROQ_API_KEY")
         if not api_key:
             raise ValueError("Thiếu GROQ_API_KEY")
